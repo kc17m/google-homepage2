@@ -152,6 +152,11 @@ input[type=submit]:hover {
 
 }*/
 
+.Line {
+    border: solid 1px #e4e4e4;
+
+}
+
 #privacy {
     width: 60px;
     height: 40px;
